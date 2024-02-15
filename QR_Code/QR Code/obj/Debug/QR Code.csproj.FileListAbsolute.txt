@@ -1,0 +1,16 @@
+D:\visual studio\QR Code\QR Code\bin\Debug\QR Code.exe.config
+D:\visual studio\QR Code\QR Code\bin\Debug\QR Code.exe
+D:\visual studio\QR Code\QR Code\bin\Debug\QR Code.pdb
+D:\visual studio\QR Code\QR Code\bin\Debug\QRCoder.dll
+D:\visual studio\QR Code\QR Code\obj\Debug\QR Code.csproj.AssemblyReference.cache
+D:\visual studio\QR Code\QR Code\obj\Debug\QR_Code.Form1.resources
+D:\visual studio\QR Code\QR Code\obj\Debug\QR_Code.Properties.Resources.resources
+D:\visual studio\QR Code\QR Code\obj\Debug\QR Code.csproj.GenerateResource.cache
+D:\visual studio\QR Code\QR Code\obj\Debug\QR Code.csproj.CoreCompileInputs.cache
+D:\visual studio\QR Code\QR Code\obj\Debug\QR Code.csproj.CopyComplete
+D:\visual studio\QR Code\QR Code\obj\Debug\QR Code.exe
+D:\visual studio\QR Code\QR Code\obj\Debug\QR Code.pdb
+D:\visual studio\QR Code\QR Code\bin\Debug\QR Code.exe.manifest
+D:\visual studio\QR Code\QR Code\bin\Debug\QR Code.application
+D:\visual studio\QR Code\QR Code\obj\Debug\QR Code.exe.manifest
+D:\visual studio\QR Code\QR Code\obj\Debug\QR Code.application
